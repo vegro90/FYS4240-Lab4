@@ -4,4 +4,4 @@ Producer consumer oriented LabVIEW-application for reading and writing analog si
 #### System
 Windows 7 64-bit \
 LabVEIW 2015 sp1 32-bit \
-NI-Vision packag
+NI-Vision package
